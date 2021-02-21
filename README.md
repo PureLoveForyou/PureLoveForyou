@@ -3,9 +3,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Computer Science(artificial intelligence).
-- 👯 M&B and MC player.
 - ⚡ Interseted in Reading, AI, Robot, Planes, Science, Space.
 - 🔭 My website:https://pureloveforyou.github.io/
+- 👯 M&B and MC player.
 
 <!--
 **PureLoveForyou/PureLoveForyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
